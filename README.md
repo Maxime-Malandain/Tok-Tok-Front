@@ -135,7 +135,7 @@ Chrome / Firefox version desktop et mobile.
 
 # Arborescence de l’application
 
-![Untitled](./assets/Arborescence.png)
+![Untitled](./src/assets/Arborescence.png)
 
 # User Story
 
@@ -215,15 +215,15 @@ Chrome / Firefox version desktop et mobile.
 
 - PapaTom
     
-    ![Untitled](./assets/WireFrames/PapaTom.png)
+    ![Untitled](./src/assets/WireFrames/PapaTom.png)
     
 - John
     
-    ![Untitled](./assets/WireFrames/John.png)
+    ![Untitled](./src/assets/WireFrames/John.png)
     
 - Chloé
     
-    ![Untitled](./assets/WireFrames/Chloé.png)
+    ![Untitled](./src/assets/WireFrames/Chloé.png)
     
 
 ## Pages définitives :
@@ -232,87 +232,87 @@ Chrome / Firefox version desktop et mobile.
 
 Desktop
 
-![Untitled](./assets/WireFrames/Homepage_Visiteur.png)
+![Untitled](./src/assets/WireFrames/Homepage_Visiteur.png)
 
 Mobile
 
-![Untitled](./assets/WireFrames/Homepage_Visiteur_mobile.png)
+![Untitled](./src/assets/WireFrames/Homepage_Visiteur_mobile.png)
 
 ### Accueil (membre)
 
 Desktop
 
-![Untitled](./assets/WireFrames/Homepage_membre.png)
+![Untitled](./src/assets/WireFrames/Homepage_membre.png)
 
 Mobile
 
-![Untitled](./assets/WireFrames/Homepage_membre_mobile.png)
+![Untitled](./src/assets/WireFrames/Homepage_membre_mobile.png)
 
 ### Mon profil
 
 Desktop
 
-![Untitled](./assets/WireFrames/Profil.png)
+![Untitled](./src/assets/WireFrames/Profil.png)
 
 Mobile
 
-![Untitled](./assets/WireFrames/Profil_mobile.png)
+![Untitled](./src/assets/WireFrames/Profil_mobile.png)
 
 ### Annonces
 
 Desktop
 
-![Untitled](./assets/WireFrames/Adverts.png)
+![Untitled](./src/assets/WireFrames/Adverts.png)
 
 Mobile
 
-![Untitled](./assets/WireFrames/Adverts_mobile.png)
+![Untitled](./src/assets/WireFrames/Adverts_mobile.png)
 
 ### Annonce
 
 Desktop
 
-![Untitled](./assets/WireFrames/Advert.png)
+![Untitled](./src/assets/WireFrames/Advert.png)
 
 Mobile
 
-![Untitled](./assets/WireFrames/Advert_mobile.png)
+![Untitled](./src/assets/WireFrames/Advert_mobile.png)
 
 ### Créer une annonce
 
 Desktop
 
-![Untitled](./assets/WireFrames/Create_an_advert.png)
+![Untitled](./src/assets/WireFrames/Create_an_advert.png)
 
 Mobile
 
-![Untitled](./assets/WireFrames/Create_an_advert_mobile.png)
+![Untitled](./src/assets/WireFrames/Create_an_advert_mobile.png)
 
 ### Favoris
 
 Desktop
 
-![Untitled](./assets/WireFrames/Favourites.png)
+![Untitled](./src/assets/WireFrames/Favourites.png)
 
 Mobile
 
-![Untitled](./assets/WireFrames/Favourites_mobile.png)
+![Untitled](./src/assets/WireFrames/Favourites_mobile.png)
 
 ### Messagerie
 
 Desktop
 
-![Untitled](./assets/WireFrames/MP.png)
+![Untitled](./src/assets/WireFrames/MP.png)
 
 Mobile
 
-![Untitled](./assets/WireFrames/MP_mobile.png)
+![Untitled](./src/assets/WireFrames/MP_mobile.png)
 
 ### Settings (only mobile)
 
 Mobile
 
-![Untitled](./assets/WireFrames/Param_mobile.png)
+![Untitled](./src/assets/WireFrames/Param_mobile.png)
 
 ## Maquettes
 
@@ -322,11 +322,11 @@ Mobile
 
 ## MCD
 
-![MCD TOK-TOK.drawio(1).png](./assets/MCD.png)
+![MCD TOK-TOK.drawio(1).png](./src/assets/MCD.png)
 
 ## MLD
 
-![MLD-TokTok.drawio(2).png](./assets/MLD.png)
+![MLD-TokTok.drawio(2).png](./src/assets/MLD.png)
 
 # Dico de données
 
@@ -470,4 +470,4 @@ Table likes
     | POST | /messages/:id | L’id de la conversation | Envoyer un message dans la conversation | objet |
 
 
-![](./assets/image.png)
+![](./src/assets/image.png)
